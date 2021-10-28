@@ -1,6 +1,6 @@
 ## Shopping List component using React hooks
 
-![Shopping List with React](/public/images/screenshot.JPG "Shopping List")
+![Shopping List with React](/public/screenshot.JPG "Shopping List")
 
 ####  Features
 1. Adding items
