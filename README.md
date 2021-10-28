@@ -34,3 +34,7 @@ const [itemCount, setItemCount] = useState(6);
   }, [items]);
 ```
 Dependency on `[items]`: Item count is updated when state of `items` is changed
+
+#### Setup & run 
+1. `npm install` dependencies
+2. `npm start` 
